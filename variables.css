@@ -1,0 +1,46 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #252A33;
+  --color-bg-base: #2E3440;
+  --color-bg-surface: #373E4D;
+  --color-bg-highlight: #40495A;
+  --color-fg-shade: #768CB2;
+  --color-fg-base: #A6B4CD;
+  --color-fg-surface: #D6DCE8;
+  --color-fg-highlight: #FFFFFF;
+  --color-primary-bg: #808080;
+  --color-primary-base: #FFFFFF;
+  --color-primary-fg: #FFFFFF;
+  --color-secondary-bg: #171A20;
+  --color-secondary-base: #2E3440;
+  --color-secondary-fg: #454E60;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: GoMono Nerd Font;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1000px;
+  --surface-shadow: 6px 6px 5px rgb(128, 128, 128), 12px 12px 5px rgb(107, 107.6, 108.8), 18px 18px 5px rgb(86, 87.2, 89.6), 24px 24px 5px rgb(65, 66.80000000000001, 70.4), 30px 30px 5px rgb(44, 46.400000000000006, 51.2), 36px 36px 5px rgb(23, 26, 32);
+  --surface-borderRadius: 27px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 4;
+}
